@@ -5,12 +5,7 @@ Oletus jou jou oletuuuus hehe :D:D haloo no oletuuuus on että oppilaat eivät j
 Vielä ei ole iso kuva hallussa.
 Tähän toinen muutos.
 
-<<<<<<< HEAD
-helou! 
-=======
-THERE IS NO SPOON! 
 
->>>>>>> fa531788bdcbc0b21a2d6447a436baae57b21d41
 ## Ennakkotehtävä
 
 1. Asenna joku seuraavista tekstieditoreista
@@ -42,4 +37,5 @@ TÄÄLLÄ NELJÄS, JA NELJÄS SAVE.
 - [Code Academy: Learn Git](https://www.codecademy.com/learn/learn-git) - Samoja asioita ja ehkä vähän lisää jota tässä koulutuksessa käytiin läpi
 - [GitHub Guides](https://guides.github.com/) - Erityisesti kahteen ensimmäiseen kannattaa tutustua
 
-Nyt tulee konfliksti!! kääks.
+kääks.
+
