@@ -44,5 +44,3 @@ TÄÄLLÄ NELJÄS, JA NELJÄS SAVE.
 - [Code Academy: Learn Git](https://www.codecademy.com/learn/learn-git) - Samoja asioita ja ehkä vähän lisää jota tässä koulutuksessa käytiin läpi
 - [GitHub Guides](https://guides.github.com/) - Erityisesti kahteen ensimmäiseen kannattaa tutustua
 
-MARI TÄÄLLÄ ÄLIÄLIÄLIÄLIÄLI!!!
-Toinen rivi äliäliäliäli. Toinen tallennus.hehehehehe:):)
