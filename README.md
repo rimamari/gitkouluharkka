@@ -1,6 +1,6 @@
 # Git-koulutus suunnittelijoille
 
-Oletus on että oppilaat eivät juuri ole käyttäneet gittiä mutta haluavat oppia käyttämää sitä. Harjoitusten tavoitteena on että opitaan perus git workflow monikehittäjäympäristössä sekä siihen tarvittavat työkalut (koodieditori, pääte, git, github) käytännön tehtävän kautta. Lopuksi kerrataan opitut asiat ja annetaan läksy.
+Oletus jou jou oletuuuus hehe :D:D haloo no oletuuuus on että oppilaat eivät juuri ole käyttäneet gittiä mutta haluavat oppia käyttämää sitä. Harjoitusten tavoitteena on että opitaan perus git workflow monikehittäjäympäristössä sekä siihen tarvittavat työkalut (koodieditori, pääte, git, github) käytännön tehtävän kautta. Lopuksi kerrataan opitut asiat ja annetaan läksy.
 
 Vielä ei ole iso kuva hallussa.
 Tähän toinen muutos.
@@ -45,3 +45,4 @@ TÄÄLLÄ NELJÄS, JA NELJÄS SAVE.
 - [GitHub Guides](https://guides.github.com/) - Erityisesti kahteen ensimmäiseen kannattaa tutustua
 
 MARI TÄÄLLÄ ÄLIÄLIÄLIÄLIÄLI!!!
+Toinen rivi äliäliäliäli. Toinen tallennus.
