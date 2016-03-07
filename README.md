@@ -5,7 +5,12 @@ Oletus on että oppilaat eivät juuri ole käyttäneet gittiä mutta haluavat op
 Vielä ei ole iso kuva hallussa.
 Tähän toinen muutos.
 
+<<<<<<< HEAD
 helou! 
+=======
+THERE IS NO SPOON! 
+
+>>>>>>> fa531788bdcbc0b21a2d6447a436baae57b21d41
 ## Ennakkotehtävä
 
 1. Asenna joku seuraavista tekstieditoreista
