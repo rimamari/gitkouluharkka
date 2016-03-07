@@ -5,6 +5,8 @@ Oletus on että oppilaat eivät juuri ole käyttäneet gittiä mutta haluavat op
 Vielä ei ole iso kuva hallussa.
 Tähän toinen muutos.
 
+THERE IS NO SPOON! 
+
 ## Ennakkotehtävä
 
 1. Asenna joku seuraavista tekstieditoreista
