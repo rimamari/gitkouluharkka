@@ -35,3 +35,5 @@ TÄÄLLÄ NELJÄS, JA NELJÄS SAVE.
 - [Reaktor Git perusteet "ei koodaajille"](https://extra.reaktor.fi/pages/viewpage.action?pageId=50922108)
 - [Code Academy: Learn Git](https://www.codecademy.com/learn/learn-git) - Samoja asioita ja ehkä vähän lisää jota tässä koulutuksessa käytiin läpi
 - [GitHub Guides](https://guides.github.com/) - Erityisesti kahteen ensimmäiseen kannattaa tutustua
+
+MARI TÄÄLLÄ ÄLIÄLIÄLIÄLIÄLI!!!
