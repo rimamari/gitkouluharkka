@@ -10,6 +10,8 @@ helou!
 =======
 THERE IS NO SPOON! 
 
+New information, spoon may nevertheless be. 
+
 >>>>>>> fa531788bdcbc0b21a2d6447a436baae57b21d41
 ## Ennakkotehtävä
 
